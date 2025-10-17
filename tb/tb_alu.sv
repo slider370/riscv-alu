@@ -123,7 +123,7 @@ module tb_alu;
 
     $display("");
     $display("===========================================");
-    $display("ADVANCED TEST: Fibonacci Sequence");
+    $display("Fibonacci with multiple adds");
     $display("===========================================");
 
     // Calculate Fibonacci using only ALU operations
